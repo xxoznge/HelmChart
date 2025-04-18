@@ -1,8 +1,8 @@
 # MY HELM CHART
 
 ## 설명
-이 Chart는 테스트용 차트
-사전에 metallb 설치 필수
+> 이 Chart는 테스트용 차트
+> 사전에 metallb 설치 필수
 
 ## 설치 방법
 ```bash
